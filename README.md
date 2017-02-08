@@ -1,6 +1,6 @@
 # TractographyMRgFUS
 
-Codes of the analysis pipeline for using diffusion MRI tractography for the MRI-guided focused ultrasound thalamotomy targeting.
+Codes of the analysis pipeline for using diffusion MRI tractography for transcranial MRI-guided focused ultrasound thalamotomy targeting.
 
 Requirements:
 
