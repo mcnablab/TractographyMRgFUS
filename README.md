@@ -2,15 +2,17 @@
 
 Codes of the analysis pipeline for using diffusion MRI tractography for transcranial MRI-guided focused ultrasound thalamotomy targeting.
 
-Requirements:
+Requirements
 
-Install the softwares listed below
+Install the softwares listed below:
 
 [1] MATLAB, https://www.mathworks.com/
 
 [2] FMRIB Software Library (FSL) v5.0.9, http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FslInstallation
 
 [3] FreeSurfer v5.3.0, https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall
+
+References
 
 Please cite the reference below if you are using the codes:
 
