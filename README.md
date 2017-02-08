@@ -17,6 +17,7 @@ Please cite the reference below if you are using the codes:
 [1] Tian Q, Wintermark M, Pauly KB, Huss D, Elias WJ, McNab JA. Diffusion MRI Tractography for Improved MRI-guided Focused Ultrasound Thalamotomy Targeting for Essential TremorIn Proceedings of the 24th Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM), Singapore, May 2016; Abstract 0823.
 
 (c) Qiyuan Tian, McNab Lab, Stanford University
+
 http://med.stanford.edu/mcnablab.html
 
 2017 February
