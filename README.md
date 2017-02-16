@@ -18,7 +18,7 @@ A single subject data (100307) from the WU-UMinn Human Connectome Project (https
 
 For diffusion data, b=0 iamges and b=2000 diffusion weighted images were extracted to mimic pre-treatment diffusion data for tractography. 
 
-For strucrual data, both T1-weighted and T2-weighted images were extracted to mimic post-treatment structural data for delineating MRgFUS induced lesion. 
+For strucrual data, T1-weighted images were extracted to mimic post-treatment structural data for delineating MRgFUS induced lesion. 
 
 A make-up lesion location was created for demonstration purpose only. 
 

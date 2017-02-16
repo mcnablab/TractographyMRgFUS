@@ -8,7 +8,7 @@ clear, clc, close all
 dpRoot = rootpath();
 
 %% 
-subjects = {'s1'};
+subjects = {'s100307'};
 
 %%
 for ii = 1 : length(subjects)
@@ -19,7 +19,7 @@ for ii = 1 : length(subjects)
     dpBbr = fullfile(dpSub, 'pre-diff-bbr');
     mkdir(dpBbr);
     
-    dpSurf = fullfile(dpSub, 'y1-t1w-surf');
+    dpSurf = fullfile(dpSub, 'post-t1w-surf');
     setenv('SUBJECTS_DIR', dpSurf);
     
     % needed files
